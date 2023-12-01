@@ -1,0 +1,45 @@
+.register-data{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 60px;
+}
+.form2{
+    width: 100%;
+}
+.section1{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.section2{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.hijo{
+    width: 100%;
+    display: flex;
+    gap: 30px;
+}
+.valu{
+    padding: 0.5rem;
+}
+.texto{
+  margin-top: -45px;
+  display: flex;
+  justify-content: end;
+  padding-right: 9px;
+  position: sticky;
+  
+ 
+}
+.boton{
+    width: 200px;
+    padding: 1rem;
+}
+.info{
+    margin-top: -10px;
+}
